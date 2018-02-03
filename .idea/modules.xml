@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\Jin\AndroidStudioProjects\MASProgrammingAssignment\HelloWorld.iml" filepath="C:\Users\Jin\AndroidStudioProjects\MASProgrammingAssignment\HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MASProgrammingAssignment.iml" filepath="$PROJECT_DIR$/MASProgrammingAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Jin\AndroidStudioProjects\MASProgrammingAssignment\app\app.iml" filepath="C:\Users\Jin\AndroidStudioProjects\MASProgrammingAssignment\app\app.iml" />
     </modules>
   </component>
 </project>
